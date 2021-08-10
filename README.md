@@ -6,7 +6,7 @@
 Hello, I'm dejwidson, and I'm backend developer.
 
 - 💬 Contact?
-     > [dejwidson#0001](https://discord.com/users/375247025643716609)  
+     > [dejwidson#7942](https://discord.com/users/375247025643716609)  
      > devixkontakt@gmail.com
 
 
