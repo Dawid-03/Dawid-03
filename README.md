@@ -3,7 +3,7 @@
 <br />
 <br />
 
-Hello, I'm dejwidson, and I'm backend developer.
+Hello, I'm dejwidson, and I'm BOROWIK.
 
 - 💬 Contact?
      > [dejwidson#0001](https://discord.com/users/375247025643716609)  
