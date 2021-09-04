@@ -3,7 +3,7 @@
 <br />
 <br />
 
-Hello, I'm dejwidson, and I'm BOROWIK.
+Hello, I'm dejwidson, and I'm amateur programmer.
 
 - 💬 Contact?
      > [dejwidson#0001](https://discord.com/users/375247025643716609)  
