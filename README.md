@@ -6,7 +6,7 @@
 Hello, I'm dejwidson, and I'm amateur programmer.
 
 - 💬 Contact?
-     > [dejwidson#0001](https://discord.com/users/375247025643716609)  
+     > [dawit#9637](https://discord.com/users/419555157802614785)  
      > devixkontakt@gmail.com
 
 
