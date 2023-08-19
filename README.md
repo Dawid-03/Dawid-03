@@ -48,11 +48,9 @@
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 
 <br />
-
-<details open><summary><b>🔰 Much More informations</b></summary>
 <br />
 		
-**💁‍♂️ Something about me**
+### 💁‍♂️ Something about me
 
 <ul>
     <li> 🎂 I'm 17 years old, born 1st August
