@@ -53,8 +53,8 @@
 ### 💁‍♂️ Something about me
 
 <ul>
-    <li> 🎂 I'm 17 years old, born 1st August
-<li> 📺 Basically I'm coding in Express.js using Typescript
+    <li> 🎂 I'm 17 years old, born on 1st of August
+<li> 📺 Mainly i code software in express.js
   <li> 📌 I'm currently learning Nest.js framework
 </ul>
 	
@@ -62,7 +62,7 @@
 
 ### 💻 My projects
 
-- I am Backend Developer and code maintainer in [Nove Team](https://github.com/nove-org)
+- I am Backend Developer and code maintainer in [nove-org](https://github.com/nove-org)
   <br>
-  My projects for this organization:
+  I contributed to these projects there:
   - [NAPI](https://github.com/nove-org/NAPI)
