@@ -4,8 +4,6 @@
 <br />
 
 <div>
-<div><img align="left" width="250" src="https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb" /></div>
-
 ## I want to become a Backend Developer. I'm building apps in Node.js, mostly using express.js, but I'm learning Nest.js in my spare time. 
 
 <br />
