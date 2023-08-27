@@ -3,7 +3,6 @@
 
 <br />
 
-<div>
 ## I want to become a Backend Developer. I'm building apps in Node.js, mostly using express.js, but I'm learning Nest.js in my spare time. 
 
 <br />
