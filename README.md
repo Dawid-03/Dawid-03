@@ -3,7 +3,7 @@
 
 <br />
 
-## I want to become a Backend Developer. I'm building apps in Node.js, mostly using express.js, but I'm learning Nest.js in my spare time. 
+<text align="center">## I want to become a Backend Developer. I'm building apps in Node.js, mostly using express.js, but I'm learning Nest.js in my spare time.
 
 <br />
 <br />
