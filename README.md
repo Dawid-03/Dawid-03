@@ -51,11 +51,11 @@
 		
 ### 💁‍♂️ Something about me
 
-<!-- <ul>
+<ul>
     <li> 🎂 I'm 17 years old, born on 1st of August
 <li> 📺 Mainly i code software in express.js
   <li> 📌 I'm currently learning Nest.js framework
-</ul> !-->
+</ul>
 	
 <br />
 
