@@ -31,7 +31,7 @@
 
 ### 💻 My projects
 
-- I am a Backend Developer and code maintainer in [nove-org](https://github.com/nove-org)
+- I am a Backend Developer and code maintainer in [nove-org](https://github.com/nove-org) [nove.team](https://nove.team)
   <br>
   I contributed to these projects there:
   - [NAPI](https://github.com/nove-org/NAPI)
