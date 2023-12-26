@@ -36,3 +36,5 @@
   <br>
   I contributed to these projects there:
   - [NAPI](https://github.com/nove-org/NAPI)
+
+###### This account is a mirror of [dawid](https://git.nove.team/dawid) on Gitea @ git.nove.team
