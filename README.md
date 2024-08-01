@@ -24,7 +24,7 @@
 ### 💁‍♂️ Something about me
 
 <ul>
-    <li> 🎂 I'm 17 years old, born on 1st of August
+    <li> 🎂 I'm 18 years old, born on 1st of August
 <li> 📺 Mainly i code software in NestJS
   <li> 📌 I'm currently learning Golang
 </ul>
