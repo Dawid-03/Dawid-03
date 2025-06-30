@@ -20,22 +20,3 @@
 
 <br />
 <br />
-		
-### 💁‍♂️ Something about me
-
-<ul>
-    <li> 🎂 I'm 18 years old, born on 1st of August
-<li> 📺 Mainly i code software in NestJS
-  <li> 📌 I'm currently learning Golang
-</ul>
-	
-<br />
-
-### 💻 My projects
-
-- I am a Backend Developer and code maintainer in [nove-org](https://github.com/nove-org) [nove.team](https://nove.team)
-  <br>
-  I contributed to these projects there:
-  - [NAPI](https://github.com/nove-org/NAPI)
-
-###### This account is a mirror of [dawid](https://git.nove.team/dawid) on Gitea @ git.nove.team
