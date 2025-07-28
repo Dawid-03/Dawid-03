@@ -41,7 +41,7 @@ I love designing backend systems from scratch, thinking about structure, perform
   Built to be minimal but secure.
 
 - **File Uploader with Encryption**  
-  Upload, encrypt, and serve files with strict access control. CLI and simple UI support.
+  Upload, encrypt, and serve files.
 
 - **NAPI – open-source OAuth2-based auth system** 
   Handles user accounts, token-based authentication, client app registration and secure session flow.  
