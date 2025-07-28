@@ -43,6 +43,12 @@ I love designing backend systems from scratch, thinking about structure, perform
 - **File Uploader with Encryption**  
   Upload, encrypt, and serve files with strict access control. CLI and simple UI support.
 
+- **NAPI – open-source OAuth2-based auth system** 
+  Handles user accounts, token-based authentication, client app registration and secure session flow.  
+  Used across multiple personal SaaS apps to centralize login and security.  
+  Fully modular – easy to extend and plug into any backend.
+  🔗 [NAPI GitHub repo](https://github.com/Dawid-03/NAPI)
+
 ---
 
 ### 🚀 Currently working on
