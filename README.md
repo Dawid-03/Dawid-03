@@ -1,6 +1,6 @@
 # Dawid Szewczyk
 
-Hey! I'm Dawid – an 19-year-old backend developer building real-world apps that actually work.  
+Hey! I'm Dawid. 19 years old backend developer building apps.  
 
 I'm focused on building reliable, scalable APIs, using tools like Go, Node.js, PostgreSQL, and Kafka.
 I love designing backend systems from scratch, thinking about structure, performance, and developer experience.
