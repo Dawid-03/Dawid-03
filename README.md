@@ -26,7 +26,7 @@ I love designing backend systems from scratch, thinking about structure, perform
 
 ### 📫 Contact
 
-📧 me@dawidszewczyk.com
+📧 me@dawidszewczyk.com <br>
 💼 [LinkedIn](https://linkedin.com/in/dawidszewczyk)  
 🌍 [Personal website](https://dawidszewczyk.com)
 
