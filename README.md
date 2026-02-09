@@ -1,6 +1,6 @@
 # Dawid Szewczyk
 
-Hey! I'm Dawid. 19 years old backend developer building apps.  
+Hey! I'm Dawid. 20 years old backend developer building apps.  
 
 I'm focused on building reliable, scalable APIs, using tools like Go, Node.js, PostgreSQL, and Kafka.
 I love designing backend systems from scratch, thinking about structure, performance, and developer experience.
@@ -24,49 +24,10 @@ I love designing backend systems from scratch, thinking about structure, perform
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/-OAuth2-6A0DAD?style=for-the-badge)
 
----
-
-### 🧩 Projects I've built from scratch
-
-- **SaaS for managing appointments in salons (hair, beauty, etc.)**  
-  REST API for scheduling, employees, services, availability, and notifications (email/SMS).  
-  Includes OAuth2-based auth, employee roles, and scalable architecture ready for production use.
-
-- **Modular CRM system with dynamic form builders**  
-  Users can define custom input types and fill dynamic forms.  
-  Fully customizable structure – no hardcoded fields. Great for small teams needing flexibility.
-
-- **Encrypted Task Manager**  
-  Folder-based task manager with full encryption and state tracking.  
-  Built to be minimal but secure.
-
-- **File Uploader with Encryption**  
-  Upload, encrypt, and serve files.
-
-- **NAPI – open-source OAuth2-based auth system**  
-  Handles user accounts, token-based authentication, client app registration and secure session flow.  
-  Used across multiple personal SaaS apps to centralize login and security.  
-  Fully modular – easy to extend and plug into any backend.  
-  🔗 [NAPI GitHub repo](https://github.com/Dawid-03/NAPI)
-
----
-
-### 🚀 Currently working on
-
-- A gRPC client in Go with custom load balancer and logging (POC project)
-- Open-source backend tools & services that could be used in production,
-
----
-
 ### 📫 Contact
 
-📧 dawid.szewczyk678@gmail.com  
+📧 me@dawidszewczyk.com
 💼 [LinkedIn](https://linkedin.com/in/dawidszewczyk)  
-🌍 [Personal website](https://szewczyk.site)
+🌍 [Personal website](https://dawidszewczyk.com)
 
 ---
-
-### 👀 I’m open to backend opportunities
-
-I'm currently open to job opportunities as a Backend Developer
-If you're working on something meaningful and want someone who can deliver real work, hit me up.
